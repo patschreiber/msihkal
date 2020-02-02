@@ -96,17 +96,19 @@ Cost (at time of writing):
 Sequel Pro is the first viable replacement to MySQL Workbench, which is just not
 fun to use on Mac anymore.
 
+#### Quality-of-life features like Intellisense:
+
 ![Sequel Pro Interface 1](img/sequel_pro/sp1.png)
+
+#### Addimg a "cascade delete":
+
 ![Sequel Pro Interface 2](img/sequel_pro/sp2.png)
 
 Cost (at time of writing):
 - **Free**, but you can donate to the project here:
 -  - [Donate](https://sequelpro.com/donate)
 - [https://sequelpro.com](https://sequelpro.com)
-  [https://github.com/sequelpro/sequelpro](https://github.com/sequelpro/sequelpro)
-
-
-  > https://sveinbjorn.org/sloth
+- [https://github.com/sequelpro/sequelpro](https://github.com/sequelpro/sequelpro)
 
 ### Sloth
 
@@ -136,8 +138,7 @@ Cost (at time of writing):
 
 - SaaS. $2.99/mo per user, or $4.99/mo. for a family account.
   _Note: If your employer has a business account, you get a free family license as well._
-  > Sloth is free, open-source software. If you find this program useful, please make a [donation](https://sveinbjorn.org/donations) to support continued development.
-  > https://sveinbjorn.org/sloth
+- [https://1password.com/](https://1password.com/)
 
 <a id="markdown-4-productivity" name="4-productivity"></a>
 
