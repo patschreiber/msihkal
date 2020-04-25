@@ -146,7 +146,7 @@ Cost (at time of writing):
 
 ### Monodraw
 
-Awesome free tool for drawing ASCII art.
+Awesome trial-based tool for drawing ASCII art with a super reasonable license.
 
 Cost (at time of writing):
 - Trial mode
@@ -158,4 +158,4 @@ Cost (at time of writing):
 > Monodraw does **not** use activation or any other form of DRM. We have complete trust in our customers.
 
 
-![Monodraw](img/monodraw/monodraw.jpg)
+![Monodraw](img/monodraw/monodraw.png)
