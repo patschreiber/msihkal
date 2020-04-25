@@ -142,4 +142,20 @@ Cost (at time of writing):
 
 <a id="markdown-4-productivity" name="4-productivity"></a>
 
-## 4. Productivity
+## 4. Design
+
+### Monodraw
+
+Awesome trial-based tool for drawing ASCII art with a super reasonable license.
+
+Cost (at time of writing):
+- Trial mode
+- \$9.99 for a permanent license
+- [https://sites.fastspring.com/helftone/product/monodraw](https://sites.fastspring.com/helftone/product/monodraw)
+
+> Personal license for Monodraw. Each license is assigned to a single person and it can be used on multiple Macs owned by the licensee.
+>
+> Monodraw does **not** use activation or any other form of DRM. We have complete trust in our customers.
+
+
+![Monodraw](img/monodraw/monodraw.png)
